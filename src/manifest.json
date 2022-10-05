@@ -19,7 +19,6 @@
   "content_security_policy": {
     "extension_pages": "script-src 'self'; object-src 'self'"
   },
-  "web_accessible_resources": [{}],
   "permissions": ["tabs", "activeTab", "scripting"],
   "host_permissions": ["http://*/*", "https://*/*"]
 }
